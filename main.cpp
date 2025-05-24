@@ -28,5 +28,5 @@ int main (int argc, char** argv) {
 		std::cout << " " << argv[i];
 	std::cout << "\n\nI hope you have a wonderful day and a beautiful life! :)" << std::endl;
 
-	// return 0;	
+	return 0;	
 }
